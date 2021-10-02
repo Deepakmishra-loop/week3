@@ -101,6 +101,7 @@ ul li a:hover{
      height: auto; 
      margin: auto; 
      color: #fff;
+     float: left;
      /* position: relative;   */
 } 
 
@@ -110,6 +111,7 @@ ul li a:hover{
     font-family: Arial;
     letter-spacing: 1.2px;
     line-height: 30px;
+    float: left;
 
 }
 .content h1{
